@@ -1,0 +1,4 @@
+Fri Dec 13 19:54:54 CST 2019
+the name of the band is stored in an int
+exits spontaneously
+compiles but not a great play
